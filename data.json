@@ -1,0 +1,322 @@
+[
+  {
+    "chamber_id": "CH-01",
+    "temperature_c": 8,
+    "door_state": "Closed",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 08:00:00",
+    "reading_id": 1
+  },
+  {
+    "reading_id": 2,
+    "chamber_id": "CH-01",
+    "temperature_c": 4.5,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 08:10:00"
+  },
+  {
+    "reading_id": 3,
+    "chamber_id": "CH-02",
+    "temperature_c": 5.1,
+    "door_state": "Open",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 08:20:00"
+  },
+  {
+    "reading_id": 4,
+    "chamber_id": "CH-01",
+    "temperature_c": 7.8,
+    "door_state": "Closed",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 08:30:00"
+  },
+  {
+    "reading_id": 5,
+    "chamber_id": "CH-02",
+    "temperature_c": 4.1,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 08:40:00"
+  },
+  {
+    "reading_id": 6,
+    "chamber_id": "CH-03",
+    "temperature_c": 3.8,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 08:50:00"
+  },
+  {
+    "reading_id": 7,
+    "chamber_id": "CH-03",
+    "temperature_c": 8.3,
+    "door_state": "Open",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 09:00:00"
+  },
+  {
+    "reading_id": 8,
+    "chamber_id": "CH-01",
+    "temperature_c": 4.3,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 09:10:00"
+  },
+  {
+    "reading_id": 9,
+    "chamber_id": "CH-02",
+    "temperature_c": 5,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 09:20:00"
+  },
+  {
+    "reading_id": 10,
+    "chamber_id": "CH-01",
+    "temperature_c": null,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 09:30:00"
+  },
+  {
+    "reading_id": 11,
+    "chamber_id": "CH-04",
+    "temperature_c": 6.5,
+    "door_state": "Open",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 09:40:00"
+  },
+  {
+    "reading_id": 12,
+    "chamber_id": "CH-04",
+    "temperature_c": 4.4,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 09:50:00"
+  },
+  {
+    "reading_id": 13,
+    "chamber_id": "CH-05",
+    "temperature_c": 3.9,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 10:00:00"
+  },
+  {
+    "reading_id": 14,
+    "chamber_id": "CH-05",
+    "temperature_c": 8.9,
+    "door_state": "Open",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 10:10:00"
+  },
+  {
+    "reading_id": 15,
+    "chamber_id": "CH-06",
+    "temperature_c": 4.6,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 10:20:00"
+  },
+  {
+    "reading_id": 16,
+    "chamber_id": "CH-06",
+    "temperature_c": 4.8,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 10:30:00"
+  },
+  {
+    "reading_id": 17,
+    "chamber_id": "CH-07",
+    "temperature_c": 9.2,
+    "door_state": "Open",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 10:40:00"
+  },
+  {
+    "reading_id": 18,
+    "chamber_id": "CH-07",
+    "temperature_c": 4.1,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 10:50:00"
+  },
+  {
+    "reading_id": 19,
+    "chamber_id": "CH-08",
+    "temperature_c": 5.2,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 11:00:00"
+  },
+  {
+    "reading_id": 20,
+    "chamber_id": "CH-08",
+    "temperature_c": 7.5,
+    "door_state": "Open",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 11:10:00"
+  },
+  {
+    "reading_id": 21,
+    "chamber_id": "CH-09",
+    "temperature_c": 4.3,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 11:20:00"
+  },
+  {
+    "reading_id": 22,
+    "chamber_id": "CH-09A",
+    "temperature_c": 4.4,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 11:30:00"
+  },
+  {
+    "reading_id": 23,
+    "chamber_id": "CH-10",
+    "temperature_c": 8.6,
+    "door_state": "Open",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 11:40:00"
+  },
+  {
+    "reading_id": 24,
+    "chamber_id": "CH-10",
+    "temperature_c": 4.2,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 11:50:00"
+  },
+  {
+    "reading_id": 25,
+    "chamber_id": "CH-11",
+    "temperature_c": 5,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 12:00:00"
+  },
+  {
+    "reading_id": 26,
+    "chamber_id": "CH-11",
+    "temperature_c": 7.4,
+    "door_state": "Open",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 12:10:00"
+  },
+  {
+    "reading_id": 27,
+    "chamber_id": "CH-12",
+    "temperature_c": 4.1,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 12:20:00"
+  },
+  {
+    "reading_id": 28,
+    "chamber_id": "CH-12",
+    "temperature_c": 4.5,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 12:30:00"
+  },
+  {
+    "reading_id": 29,
+    "chamber_id": "CH-13",
+    "temperature_c": 9.1,
+    "door_state": "Open",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 12:40:00"
+  },
+  {
+    "reading_id": 30,
+    "chamber_id": "CH-13",
+    "temperature_c": 4.3,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 12:50:00"
+  },
+  {
+    "reading_id": 31,
+    "chamber_id": "CH-14",
+    "temperature_c": 4.8,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 13:00:00"
+  },
+  {
+    "reading_id": 32,
+    "chamber_id": "CH-14",
+    "temperature_c": 5.2,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 13:10:00"
+  },
+  {
+    "reading_id": 33,
+    "chamber_id": "CH-15",
+    "temperature_c": 8.8,
+    "door_state": "Open",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 13:20:00"
+  },
+  {
+    "reading_id": 34,
+    "chamber_id": "CH-15",
+    "temperature_c": 4,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 13:30:00"
+  },
+  {
+    "reading_id": 35,
+    "chamber_id": "CH-16",
+    "temperature_c": 4.6,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 13:40:00"
+  },
+  {
+    "reading_id": 36,
+    "chamber_id": "CH-16",
+    "temperature_c": 7.9,
+    "door_state": "Open",
+    "alarm_flag": true,
+    "recorded_at": "2026-07-26 13:50:00"
+  },
+  {
+    "reading_id": 37,
+    "chamber_id": "CH-17",
+    "temperature_c": 4.2,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 14:00:00"
+  },
+  {
+    "reading_id": 38,
+    "chamber_id": "CH-18",
+    "temperature_c": 4.1,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 14:10:00"
+  },
+  {
+    "reading_id": 39,
+    "chamber_id": "TEST-001",
+    "temperature_c": 22,
+    "door_state": "Unknown",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 14:20:00"
+  },
+  {
+    "chamber_id": "CH-20",
+    "temperature_c": 4.5,
+    "door_state": "Closed",
+    "alarm_flag": false,
+    "recorded_at": "2026-07-26 15:00:00",
+    "reading_id": 41
+  }
+]

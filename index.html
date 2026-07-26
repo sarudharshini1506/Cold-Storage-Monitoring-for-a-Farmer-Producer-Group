@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cold Storage Monitoring</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+<header>
+    <h1>❄️ Cold Storage Monitoring System</h1>
+    <p>Farmer Producer Group - Chamber Temperature Dashboard</p>
+</header>
+
+<div class="container">
+
+    <div class="controls">
+
+        <input
+            type="text"
+            id="search"
+            placeholder="Search Chamber..."
+        >
+
+        <select id="filter">
+            <option value="all">All Records</option>
+            <option value="alarm">Alarm ON</option>
+            <option value="safe">Safe</option>
+            <option value="dooropen">Door Open</option>
+            <option value="doorclosed">Door Closed</option>
+        </select>
+
+        <button id="refreshBtn">
+            Refresh
+        </button>
+
+    </div>
+
+    <div class="summary">
+
+        <div class="card">
+            <h2>Total Records</h2>
+            <p id="totalRecords">0</p>
+        </div>
+
+        <div class="card">
+            <h2>Safe Readings</h2>
+            <p id="safeCount">0</p>
+        </div>
+
+        <div class="card alarm">
+            <h2>Alarm Readings</h2>
+            <p id="alarmCount">0</p>
+        </div>
+
+        <div class="card">
+            <h2>Average Temp</h2>
+            <p id="avgTemp">0°C</p>
+        </div>
+
+    </div>
+
+    <canvas id="tempChart"></canvas>
+
+    <h2>Temperature Records</h2>
+
+    <p>
+        Showing
+        <span id="recordCount">0</span>
+        records
+    </p>
+
+    <table>
+
+        <thead>
+
+        <tr>
+            <th>ID</th>
+            <th>Chamber</th>
+            <th>Temperature</th>
+            <th>Door</th>
+            <th>Alarm</th>
+            <th>Recorded At</th>
+        </tr>
+
+        </thead>
+
+        <tbody id="tableBody">
+
+        </tbody>
+
+    </table>
+
+</div>
+
+<footer>
+
+    <p>
+        SIH 2026 Practical Assessment
+    </p>n
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
